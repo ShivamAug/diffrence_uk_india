@@ -1,0 +1,9 @@
+{
+"date":["<%#TagSSI,date_speed%>"],
+"shop":["<%#TagSSI,station1%>"],
+"machine_no":["<%#TagSSI,quick_url_machine_php%>"],
+"shift":["<%#TagSSI,shift%>"],
+"operator" : ["<%#TagSSI,operator1%>","<%#TagSSI,operator2%>","<%#TagSSI,operator3%>","<%#TagSSI,operator4%>","<%#TagSSI,operator5%>","<%#TagSSI,operator6%>","<%#TagSSI,operator8%>","<%#TagSSI,operator9%>","<%#TagSSI,operator10%>","<%#TagSSI,operator11%>","<%#TagSSI,operator12%>"],
+"reason" : ["<%#TagSSI,live_quick_reason_php1%>","<%#TagSSI,live_quick_reason_php2%>","<%#TagSSI,live_quick_reason_php3%>","<%#TagSSI,live_quick_reason_php4%>","<%#TagSSI,live_quick_reason_php5%>","<%#TagSSI,live_quick_reason_php6%>","<%#TagSSI,live_quick_reason_php7%>","<%#TagSSI,live_quick_reason_php8%>","<%#TagSSI,live_quick_reason_php9%>","<%#TagSSI,live_quick_reason_php10%>"]
+
+}

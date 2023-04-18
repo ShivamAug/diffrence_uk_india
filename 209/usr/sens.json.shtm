@@ -1,0 +1,17 @@
+{
+  "iot":[
+  {
+			"name":[
+						{"sens":"<%#TagSSI,st3_mc1%>"},{"sens":"<%#TagSSI,st3_mc2%>"},{"sens":"<%#TagSSI,st3_mc3%>"},{"sens":"<%#TagSSI,st3_mc4%>"},{"sens":"<%#TagSSI,st3_mc5%>"},{"sens":"<%#TagSSI,st3_mc6%>"},{"sens":"<%#TagSSI,st3_mc8%>"},{"sens":"<%#TagSSI,st3_mc9%>"},{"sens":"<%#TagSSI,st3_mc10%>"},{"sens":"<%#TagSSI,st3_mc11%>"},{"sens":"<%#TagSSI,st3_mc12%>"}
+					],
+				"status":[
+							{"st":"<%#TagSSI,status_wd1%>"},{"st":"<%#TagSSI,status_wd2%>"},{"st":"<%#TagSSI,status_wd3%>"},{"st":"<%#TagSSI,status_wd4%>"},{"st":"<%#TagSSI,status_wd5%>"},{"st":"<%#TagSSI,status_wd6%>"},{"sens":"<%#TagSSI,status_wd8%>"},{"sens":"<%#TagSSI,status_wd9%>"},{"sens":"<%#TagSSI,status_wd10%>"},{"sens":"<%#TagSSI,status_wd11%>"},{"sens":"<%#TagSSI,status_wd12%>"}
+				],
+				"plan":[
+							{"pl":"<%#TagSSI,grade1%>"},{"pl":"<%#TagSSI,grade2%>"},{"pl":"<%#TagSSI,grade3%>"},{"pl":"<%#TagSSI,grade4%>"},{"pl":"<%#TagSSI,grade5%>"},{"pl":"<%#TagSSI,grade6%>"},{"pl":"<%#TagSSI,grade8%>"},{"pl":"<%#TagSSI,grade9%>"},{"pl":"<%#TagSSI,grade10%>"},{"pl":"<%#TagSSI,grade11%>"},{"pl":"<%#TagSSI,grade12%>"}
+				],
+				"shop":[{"shop_n":"<%#TagSSI,station1%>"}]
+		  }
+		  ]
+}
+

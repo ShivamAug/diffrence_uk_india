@@ -1,0 +1,3 @@
+Date,Shift,Operator,DownTime,From Time,To Time,Major,Minor,Sub Minor,Sub Sub Minor
+17/04/2023,Mornings,None,339.66,17/04/2023 05:20:11,17/04/2023 11:03:21,reason not entered,null,null,null
+17/04/2023,Mornings,None,2.33,17/04/2023 11:03:31,17/04/2023 11:06:41,Spool Reverse,Layer miss,Not Applicable,Not Applicable

@@ -1,0 +1,6 @@
+{
+"date":["<%#TagSSI,date_speed%>"],
+"shop":["<%#TagSSI,station1%>"],
+"reason" : ["<%#TagSSI,sop_down_msg1%>","<%#TagSSI,sop_down_msg2%>","<%#TagSSI,sop_down_msg3%>","<%#TagSSI,sop_down_msg4%>","<%#TagSSI,sop_down_msg5%>","<%#TagSSI,sop_down_msg6%>","<%#TagSSI,sop_down_msg8%>","<%#TagSSI,sop_down_msg9%>","<%#TagSSI,sop_down_msg10%>","<%#TagSSI,sop_down_msg11%>","<%#TagSSI,sop_down_msg12%>"],
+"machine" : ["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>"]
+}

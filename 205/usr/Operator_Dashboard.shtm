@@ -1,0 +1,198 @@
+<html>
+    <head>
+    <title>
+      LE Sm@rt Factory
+    </title>
+  <link rel="stylesheet" href="css/mystyle.css">
+       <link rel="stylesheet" href="css/form.css">
+         <link rel="stylesheet" href="css/drop.css">
+		  
+		    <script type="text/javascript" src="css/jquery.js"></script> 
+    </head>
+
+    <style type="text/css">
+  #menu {
+  display: block;
+  padding: 0;
+  margin: 0 auto;
+  font-family: "Times New Roman";
+    }
+  .child {
+  display: inline;
+  position: absolute;
+  background-color: #444;
+  min-width: 140px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin-left:-1px;
+  margin-top: 12px;
+  }
+  .child li {
+  background-color: #444;
+  line-height: 30px;
+  border-bottom:#CCC 1px solid;
+  border-right:#CCC 1px solid;
+  width:100%;
+  }
+  .child li a{
+  color:whitesmoke;
+  }
+  ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  font-weight: bold;
+    }
+  li {
+  float: center;
+  }
+  .parent{
+  text-decoration: none;
+  background-color: #444;
+  padding:0;
+  position: relative;
+  border-bottom: 4px solid #999;
+  margin: 0 0.1em;
+  transition: border-bottom 0.23s ease-in-out, background 0.23s linear;
+  cursor: pointer;
+  min-width: 6em;
+  text-align: center;
+  font-size: 16px;
+
+  }
+  .parent:hover{
+  background-color: red;
+  }
+  li:hover {
+  background-color: #444;
+  }
+  .parent li:hover {
+  background-color: #444;
+  padding:0;
+  }
+   li.parent{
+    display:block;
+  }
+  .child a {
+  color: whitesmoke;
+  padding: 12px 14px;
+  text-decoration: none;
+  display: inline;
+  text-align: left;
+  }
+
+  #t{
+    padding:8px 6px;
+  }
+
+  .child a:hover{
+    background-color: #8b0e1ade;
+  }
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  color: #024457;
+}
+h1 span {
+  color: #167F92;
+}
+</style>
+    <body >
+
+            <div class="container" style="width:55%;">
+          <div class="header">
+
+                         <table style="width: 100%;margin-bottom: -2%; ">
+                <tr>
+                  <td ><img src="css/factory.JPG" style="margin-left: 2%;
+
+height: 100px;">
+  <td style="width: 15%;" ><img src="css/PikPng.com_lincoln-png_897101.png" style="margin-left: 2%;
+height: 62px;"></td>
+                </tr>
+            </table>
+            <br>
+          <div class="content" style="padding-bottom: 1%;height:auto;">
+		  <script>
+$(document).ready(function(){
+
+var machine=["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>",]
+for (var i=1;i<12;i++)
+{
+var ic=i-1;
+
+
+if((machine[ic]==="N/A")||(machine[ic]===""))
+{
+
+document.getElementById('link'+i).style.display="none";
+}
+}
+
+});
+
+
+
+
+</script>
+                            <p style="font-size: 14px;
+
+font-weight: bolder;
+
+padding-left: 13%;
+
+text-align: center;
+
+color: white;
+
+font-variant: petite-caps;" > <%#TagSSI,Station1%> <br> Operator Screen - Dashboard</td>
+</p>
+          <ul id="menu" style="margin-left: 35%; width: 35%;">
+<a   href="/usr/sdext/Factory/machines/machine1/table2.shtm" target="_top">
+<li class="parent" id="link1"><%#TagSSI,st3_mc1%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine2/table2.shtm" target="_top">
+<li class="parent" id="link2"><%#TagSSI,st3_mc2%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine3/table2.shtm" target="_top">
+<li class="parent" id="link3"><%#TagSSI,st3_mc3%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine4/table2.shtm" target="_top">
+<li class="parent" id="link4"><%#TagSSI,st3_mc4%>
+</li></a>
+<a   href="/usr/sdext/Factory/machines/machine5/table2.shtm" target="_top">
+<li class="parent" id="link5"><%#TagSSI,st3_mc5%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine6/table2.shtm" target="_top">
+<li class="parent" id="link6"><%#TagSSI,st3_mc6%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine8/table2.shtm" target="_top">
+<li class="parent" id="link7"><%#TagSSI,st3_mc8%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine9/table2.shtm" target="_top">
+<li class="parent" id="link8"><%#TagSSI,st3_mc9%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine10/table2.shtm" target="_top">
+<li class="parent" id="link9"><%#TagSSI,st3_mc10%>
+</li></a>
+<a  href="/usr/sdext/Factory/machines/machine11/table2.shtm" target="_top">
+<li class="parent" id="link10"><%#TagSSI,st3_mc11%>
+</li></a>
+<a href="/usr/sdext/Factory/machines/machine12/table2.shtm" target="_top">
+<li class="parent" id="link11" ><%#TagSSI,st3_mc12%>
+</li></a>
+  </ul>
+          </div>
+          <div class="footer" style="height: 15%;">
+
+
+      <label style="float: right;
+color: white;
+font-size: 16px;
+margin-right: 3%;
+margin-top: 2%;font-weight: bolder;
+font-variant: all-small-caps;">LINCOLN ELECTRIC INDIA LTD.</label>
+
+        </div>
+    </body>
+    </html>

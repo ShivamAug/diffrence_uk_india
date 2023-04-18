@@ -1,0 +1,13 @@
+{
+"reason1":["<%#TagSSI,machine1_quick_reason_test%>"],
+"reason2":["<%#TagSSI,machine2_quick_reason_test%>"],
+"reason3":["<%#TagSSI,machine3_quick_reason_test%>"],
+"reason4":["<%#TagSSI,machine4_quick_reason_test%>"],
+"reason5":["<%#TagSSI,machine5_quick_reason_test%>"],
+"reason6":["<%#TagSSI,machine6_quick_reason_test%>"],
+"reason7":["<%#TagSSI,machine7_quick_reason_test%>"],
+"reason8":["<%#TagSSI,machine8_quick_reason_test%>"],
+"reason9":["<%#TagSSI,machine9_quick_reason_test%>"],
+"reason10":["<%#TagSSI,machine10_quick_reason_test%>"],
+"reason11":["<%#TagSSI,machine11_quick_reason_test%>"]
+}

@@ -1,0 +1,12 @@
+{
+"date":["<%#TagSSI,date1%>"],
+"week":["<%#TagSSI,week%>"],
+"month":["<%#TagSSI,month1%>"],
+"shift":["<%#TagSSI,shift%>"],
+"area":["<%#TagSSI,station1%>"],
+"machine" : ["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>"],
+"operator" : ["<%#TagSSI,operator1%>","<%#TagSSI,operator2%>","<%#TagSSI,operator3%>","<%#TagSSI,operator4%>","<%#TagSSI,operator5%>","<%#TagSSI,operator6%>","<%#TagSSI,operator8%>","<%#TagSSI,operator9%>","<%#TagSSI,operator10%>","<%#TagSSI,operator11%>","<%#TagSSI,operator12%>"],
+"supplier" : ["<%#TagSSI,sup1%>","<%#TagSSI,sup2%>","<%#TagSSI,sup3%>","<%#TagSSI,sup4%>","<%#TagSSI,sup5%>","<%#TagSSI,sup6%>","<%#TagSSI,sup8%>","<%#TagSSI,sup9%>","<%#TagSSI,sup10%>","<%#TagSSI,sup11%>","<%#TagSSI,sup12%>"],
+"wd_product" : ["<%#TagSSI,grade1%>","<%#TagSSI,grade2%> "," <%#TagSSI,grade3%>"," <%#TagSSI,grade4%>"," <%#TagSSI,grade5%>"," <%#TagSSI,grade6%>","<%#TagSSI,grade8%> "," <%#TagSSI,grade9%> ","<%#TagSSI,grade10%> ","<%#TagSSI,grade11%> "," <%#TagSSI,grade12%>"],
+"kg" : ["<%#TagSSI,per_hr_mc1%>","<%#TagSSI,per_hr_mc2%>","<%#TagSSI,per_hr_mc3%>","<%#TagSSI,per_hr_mc4%>","<%#TagSSI,per_hr_mc5%>","<%#TagSSI,per_hr_mc6%>","<%#TagSSI,per_hr_mc8%>","<%#TagSSI,per_hr_mc9%>","<%#TagSSI,per_hr_mc10%>","<%#TagSSI,per_hr_mc11%>","<%#TagSSI,per_hr_mc12%>"]
+}

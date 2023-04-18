@@ -1,0 +1,13 @@
+Date,Shift,Operator,DownTime,From Time,To Time,Major,Minor,Sub Minor,Sub Sub Minor
+17/04/2023,Mornings,23 / DP,20.00,17/04/2023 05:20:01,17/04/2023 05:40:55,General Producti,Change,Bobbin,N/A
+17/04/2023,Mornings,23 / DP,5.00,17/04/2023 06:01:01,17/04/2023 06:06:01,Drum Change ,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,23 / DP,18.00,17/04/2023 06:27:01,17/04/2023 06:45:01,reason not entered,null,null,null
+17/04/2023,Mornings,23 / DP,2.00,17/04/2023 07:07:01,17/04/2023 07:08:01,Drum Change ,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,23 / DP,6.00,17/04/2023 07:30:01,17/04/2023 07:36:38,General Producti,Change,Bobbin,N/A
+17/04/2023,Mornings,23 / DP,16.00,17/04/2023 07:57:01,17/04/2023 08:12:04,General Producti,Change,New Product ,N/A
+17/04/2023,Mornings,23 / DP,2.00,17/04/2023 08:13:01,17/04/2023 08:16:01,Drum Change ,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,23 / DP,21.00,17/04/2023 08:40:01,17/04/2023 09:01:01,reason not entered,null,null,null
+17/04/2023,Mornings,23 / DP,5.00,17/04/2023 09:27:01,17/04/2023 09:31:01,Drum Change ,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,23 / DP,20.00,17/04/2023 09:56:01,17/04/2023 10:17:44,General Producti,Change,Bobbin,N/A
+17/04/2023,Mornings,23 / DP,2.00,17/04/2023 10:18:01,17/04/2023 10:21:01,Drum Change ,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,23 / DP,12.00,17/04/2023 10:46:01,17/04/2023 10:58:01,reason not entered,null,null,null

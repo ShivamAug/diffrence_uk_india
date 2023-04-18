@@ -1,0 +1,68 @@
+<table>
+<tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc1</label><input type="hidden" name="TagName1" value="speed1">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed1%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc2</label><input type="hidden" name="TagName1" value="speed2">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed2%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc3</label><input type="hidden" name="TagName1" value="speed3">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed3%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc4</label><input type="hidden" name="TagName1" value="speed4">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed4%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc5</label><input type="hidden" name="TagName1" value="speed5">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed5%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc6</label><input type="hidden" name="TagName1" value="speed6">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed6%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc8</label><input type="hidden" name="TagName1" value="speed8">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed8%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc9</label><input type="hidden" name="TagName1" value="speed9">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed9%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc10</label><input type="hidden" name="TagName1" value="speed10">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed10%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   <tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc11</label><input type="hidden" name="TagName1" value="speed11">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed11%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+<tr><td><form style="float: right;height: auto;margin: 0px; padding: 0px;"  method="POST" action="/rcgi.binrcgi.bin/UpdateTagForm" >
+                  <label>Mc12</label><input type="hidden" name="TagName1" value="speed12">
+                  <input name="TagValue1" autocomplete="off" size="20" value="<%#TagSSI,speed12%>" required>
+                  <input type="submit" name="submit">
+                  <input type="hidden" name="ResultPageOk" value="/usr/speed.shtm">
+   </form></tr></td>
+   </table>

@@ -1,0 +1,5 @@
+Date,Shift,Operator,DownTime,From Time,To Time,Major,Minor,Sub Minor,Sub Sub Minor
+17/04/2023,Mornings,102 / IP,6,17/04/2023 05:20:01,17/04/2023 05:26:01,Maintenance,Op. maintenance,N/A,N/A
+17/04/2023,Mornings,102 / IP,8.00,17/04/2023 07:08:01,17/04/2023 07:16:01,reason not entered,null,null,null
+17/04/2023,Mornings,102 / IP,8,17/04/2023 07:18:01,17/04/2023 07:26:01,General Producti,Change,Bobbin,N/A
+17/04/2023,Mornings,102 / IP,5,17/04/2023 09:47:01,17/04/2023 09:52:01,General Producti,Change,Bobbin,N/A

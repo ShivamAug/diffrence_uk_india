@@ -1,0 +1,7 @@
+{
+"date":["<%#TagSSI,date_speed%>"],
+"shop":["<%#TagSSI,station1%>"],
+"kg" : ["<%#TagSSI,real_kg1%>","<%#TagSSI,real_kg2%>","<%#TagSSI,real_kg3%>","<%#TagSSI,real_kg4%>","<%#TagSSI,real_kg5%>","<%#TagSSI,real_kg6%>","<%#TagSSI,real_kg8%>","<%#TagSSI,real_kg9%>","<%#TagSSI,real_kg10%>","<%#TagSSI,real_kg11%>","<%#TagSSI,real_kg12%>"],
+"machine" : ["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>"],
+"product" : ["<%#TagSSI,grade1%>","<%#TagSSI,grade2%>","<%#TagSSI,grade3%>","<%#TagSSI,grade4%>","<%#TagSSI,grade5%>","<%#TagSSI,grade6%>","<%#TagSSI,grade8%>","<%#TagSSI,grade9%>","<%#TagSSI,grade10%>","<%#TagSSI,grade11%>","<%#TagSSI,grade12%>"]
+}

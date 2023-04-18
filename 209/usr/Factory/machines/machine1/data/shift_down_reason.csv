@@ -1,0 +1,22 @@
+Date,Shift,Operator,DownTime,From Time,To Time,Major,Minor,Sub Minor,Sub Sub Minor
+17/04/2023,Mornings,None,3.33,17/04/2023 05:20:11,17/04/2023 05:23:32,reason not entered,null,null,null
+17/04/2023,Mornings,None,41.83,17/04/2023 05:23:52,17/04/2023 06:05:58,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,125.00,17/04/2023 06:06:28,17/04/2023 08:15:18,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,27.33,17/04/2023 08:15:38,17/04/2023 08:44:52,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,8.83,17/04/2023 08:45:22,17/04/2023 08:54:53,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,0.83,17/04/2023 08:55:33,17/04/2023 08:57:23,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,3.00,17/04/2023 08:57:43,17/04/2023 09:00:44,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,6.50,17/04/2023 09:01:34,17/04/2023 09:08:35,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,1.33,17/04/2023 09:09:15,17/04/2023 09:11:45,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,7.00,17/04/2023 09:13:35,17/04/2023 09:20:46,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,1.00,17/04/2023 09:22:37,17/04/2023 09:23:47,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,1.33,17/04/2023 09:25:27,17/04/2023 09:26:57,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,0.50,17/04/2023 09:28:38,17/04/2023 09:29:08,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,12.83,17/04/2023 09:30:58,17/04/2023 09:48:20,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,12.33,17/04/2023 09:49:31,17/04/2023 10:01:52,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,6.33,17/04/2023 10:02:32,17/04/2023 10:09:43,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,0.33,17/04/2023 10:11:24,17/04/2023 10:11:54,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,0.67,17/04/2023 10:13:44,17/04/2023 10:14:34,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,1.50,17/04/2023 10:14:54,17/04/2023 10:17:45,Spool Change,Kg Completed,Not Applicable,Not Applicable
+17/04/2023,Mornings,21 / SR,3.17,17/04/2023 10:18:45,17/04/2023 10:23:55,reason not entered,null,null,null
+17/04/2023,Mornings,21 / SR,5.00,17/04/2023 10:24:15,17/04/2023 10:30:16,reason not entered,null,null,null

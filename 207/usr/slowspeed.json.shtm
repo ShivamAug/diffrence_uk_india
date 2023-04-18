@@ -1,0 +1,14 @@
+{
+"date":["<%#TagSSI,date_speed%>"],
+"shop":["<%#TagSSI,station1%>"],
+"machine" : ["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>"],
+"shop1_trigger1":<%#TagSSI,mc_down_tg1%>,
+"shop1_trigger2":<%#TagSSI,mc_down_tg2%>,
+"shop1_trigger3":<%#TagSSI,mc_down_tg3%>,
+"shop1_slow_alert1":<%#TagSSI,slow_alert1%>,
+"shop1_slow_alert2":<%#TagSSI,slow_alert2%>,
+"shop1_slow_alert3":<%#TagSSI,slow_alert3%>,
+"machine_timer" : ["<%#TagSSI,run1%>","<%#TagSSI,run2%>","<%#TagSSI,run3%>","<%#TagSSI,run4%>","<%#TagSSI,run5%>","<%#TagSSI,run6%>","<%#TagSSI,run8%>","<%#TagSSI,run9%>","<%#TagSSI,run10%>","<%#TagSSI,run11%>","<%#TagSSI,run12%>"],
+"machine_timer1" : ["<%#TagSSI,timer1%>","<%#TagSSI,timer2%>","<%#TagSSI,timer3%>","<%#TagSSI,timer4%>","<%#TagSSI,timer5%>","<%#TagSSI,timer6%>","<%#TagSSI,timer8%>","<%#TagSSI,timer9%>","<%#TagSSI,timer10%>","<%#TagSSI,timer11%>","<%#TagSSI,timer12%>"],
+"machine_slow" : ["<%#TagSSI,slow1%>","<%#TagSSI,slow2%>","<%#TagSSI,slow3%>","<%#TagSSI,slow4%>","<%#TagSSI,slow5%>","<%#TagSSI,slow6%>","<%#TagSSI,slow8%>","<%#TagSSI,slow9%>","<%#TagSSI,slow10%>","<%#TagSSI,slow11%>","<%#TagSSI,slow12%>"]
+}

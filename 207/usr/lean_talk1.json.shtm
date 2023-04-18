@@ -1,0 +1,20 @@
+{
+"date":["<%#TagSSI,date_speed%>"],
+"shop":["<%#TagSSI,station1%>"],
+"msg_chat":["<%#TagSSI,shop_central_chat_msg%>"],
+"mc_speed" : ["<%#TagSSI,speed1%>","<%#TagSSI,speed2%>","<%#TagSSI,speed3%>","<%#TagSSI,speed4%>","<%#TagSSI,speed5%>","<%#TagSSI,speed6%>","<%#TagSSI,speed8%>","<%#TagSSI,speed9%>","<%#TagSSI,speed10%>","<%#TagSSI,speed11%>","<%#TagSSI,speed12%>"],
+"machine" : ["<%#TagSSI,st3_mc1%>","<%#TagSSI,st3_mc2%>","<%#TagSSI,st3_mc3%>","<%#TagSSI,st3_mc4%>","<%#TagSSI,st3_mc5%>","<%#TagSSI,st3_mc6%>","<%#TagSSI,st3_mc8%>","<%#TagSSI,st3_mc9%>","<%#TagSSI,st3_mc10%>","<%#TagSSI,st3_mc11%>","<%#TagSSI,st3_mc12%>"],
+"mc_downtime" : ["<%#TagSSI,down_sms1%>","<%#TagSSI,down_sms2%>","<%#TagSSI,down_sms3%>","<%#TagSSI,down_sms4%>","<%#TagSSI,down_sms5%>","<%#TagSSI,down_sms6%>","<%#TagSSI,down_sms8%>","<%#TagSSI,down_sms9%>","<%#TagSSI,down_sms10%>","<%#TagSSI,down_sms11%>","<%#TagSSI,down_sms12%>"],
+"mc_breakdown" : ["<%#TagSSI,b_down_sms1%>","<%#TagSSI,b_down_sms2%>","<%#TagSSI,b_down_sms3%>","<%#TagSSI,b_down_sms4%>","<%#TagSSI,b_down_sms5%>","<%#TagSSI,b_down_sms6%>","<%#TagSSI,b_down_sms7%>","<%#TagSSI,b_down_sms8%>","<%#TagSSI,b_down_sms9%>","<%#TagSSI,b_down_sms10%>","<%#TagSSI,b_down_sms11%>"],
+"mc_speed_lsl" : ["<%#TagSSI,wd1_speed_lsl%>","<%#TagSSI,wd2_speed_lsl%>","<%#TagSSI,wd3_speed_lsl%>","<%#TagSSI,wd4_speed_lsl%>","<%#TagSSI,wd5_speed_lsl%>","<%#TagSSI,wd6_speed_lsl%>","<%#TagSSI,wd8_speed_lsl%>","<%#TagSSI,wd9_speed_lsl%>","<%#TagSSI,wd10_speed_lsl%>","<%#TagSSI,wd11_speed_lsl%>","<%#TagSSI,wd12_speed_lsl%>"],
+"mc_setspeed" : ["<%#TagSSI,set_speed1%>","<%#TagSSI,set_speed2%>","<%#TagSSI,set_speed3%>","<%#TagSSI,set_speed4%>","<%#TagSSI,set_speed5%>","<%#TagSSI,set_speed6%>","<%#TagSSI,set_speed8%>","<%#TagSSI,set_speed9%>","<%#TagSSI,set_speed10%>","<%#TagSSI,set_speed11%>","<%#TagSSI,set_speed12%>"],
+"mc_break_trigger" : ["<%#TagSSI,break_tg1%>","<%#TagSSI,break_tg2%>","<%#TagSSI,break_tg3%>","<%#TagSSI,break_tg4%>","<%#TagSSI,break_tg5%>","<%#TagSSI,break_tg6%>","<%#TagSSI,break_tg7%>","<%#TagSSI,break_tg8%>","<%#TagSSI,break_tg9%>","<%#TagSSI,break_tg10%>","<%#TagSSI,break_tg11%>"],
+"shop1_trigger1":<%#TagSSI,mc_down_tg1%>,
+"shop1_trigger2":<%#TagSSI,mc_down_tg2%>,
+"shop1_trigger3":<%#TagSSI,mc_down_tg3%>,
+"shop1_down_time1":<%#TagSSI,mc_down_l1_time%>,
+"shop1_down_time2":<%#TagSSI,mc_down_l2_time%>,
+"shop1_down_time3":<%#TagSSI,mc_down_l3_time%>,
+"mc_breakdown_time" : ["<%#TagSSI,b_red_down1%>","<%#TagSSI,b_red_down2%>","<%#TagSSI,b_red_down3%>","<%#TagSSI,b_red_down4%>","<%#TagSSI,b_red_down5%>","<%#TagSSI,b_red_down6%>","<%#TagSSI,b_red_down7%>","<%#TagSSI,b_red_down8%>","<%#TagSSI,b_red_down9%>","<%#TagSSI,b_red_down10%>","<%#TagSSI,b_red_down11%>"],
+"mc_down_time" : ["<%#TagSSI,red_down1%>","<%#TagSSI,red_down2%>","<%#TagSSI,red_down3%>","<%#TagSSI,red_down4%>","<%#TagSSI,red_down5%>","<%#TagSSI,red_down6%>","<%#TagSSI,red_down7%>","<%#TagSSI,red_down8%>","<%#TagSSI,red_down9%>","<%#TagSSI,red_down10%>","<%#TagSSI,red_down11%>"]
+}

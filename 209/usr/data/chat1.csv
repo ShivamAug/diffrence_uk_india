@@ -1,0 +1,570 @@
+01/07/2020 13:36:52,Wet Draw1,Jayaprakash Achuthan,power cut from 1.25 pm
+04/07/2020 08:59:07,Wet Draw1,Jayaprakash Achuthan,power cut at 8.55 am.Machines will start shortly
+06/07/2020 10:15:47,Wet Draw1,Jayaprakash Achuthan,power cut now 
+06/07/2020 11:04:46,Wet Draw1,Jayaprakash Achuthan,6 wetdraw machine running now
+06/07/2020 12:02:46,Wet Draw1,Jayaprakash Achuthan,power interruption again.Will resume after power resume
+06/07/2020 12:58:48,Wet Draw1,MD_Sundarram ,what do people do during power cut>
+06/07/2020 13:02:16,Wet Draw1,Jayaprakash Achuthan,All are involved for  machine cleaning and 1s and activity 
+06/07/2020 13:04:00,Wet Draw1,MD_Sundarram ,before and after photos pls
+06/07/2020 13:42:40,Wet Draw1,Jayaprakash Achuthan,Sir photos shared in IoT whatsapp group.
+06/07/2020 16:50:47,Wet Draw1,ManiRaghu ,Jp wd 12 operator taken highest time for bobbin change - almost 8-9 mins per change.. both machine same operator?
+06/07/2020 16:51:28,Wet Draw1,ManiRaghu ,pls read wd 1 wd 2
+06/07/2020 17:01:28,Wet Draw1,Dheivasigamani ,Smart Factory stopping current Kg by 4.57PM itself even Machine running 15mtr/sec
+07/07/2020 09:14:19,Wet Draw1,Lincoln_Admin ,Gm!
+07/07/2020 09:24:48,Wet Draw1,MD_Sundarram ,why only 4wd running?
+07/07/2020 09:32:26,Wet Draw1,Jayaprakash Achuthan,Yesterday 2 times power cut and part bobbins are generated.So 8 empty bobboins are available as of today morning.So to avoid machine stop due to non availability of bobbin we planed 4 machines.Night 6
+07/07/2020 10:26:18,Wet Draw1,MD_Sundarram ,wont that create problem for IEX?
+07/07/2020 11:22:26,Wet Draw1,Jayaprakash Achuthan,As discussed with DSM there is no bid for today production form pending to submit SLDC
+08/07/2020 10:16:30,Wet Draw1,Operator ,sir.wd1 skinpass change work
+08/07/2020 10:34:51,Wet Draw1,Supervisor ,im supervisor chella perumal
+08/07/2020 10:46:56,Wet Draw1,Supervisor ,sir.prefinal die wirecut
+08/07/2020 10:47:24,Wet Draw1,Jayaprakash Achuthan,What is setting life till now
+08/07/2020 11:04:19,Wet Draw1,Supervisor ,sir.5.7mt completed.
+08/07/2020 12:51:24,Wet Draw1,Supervisor ,sir. bobbin change
+09/07/2020 04:28:08,Wet Draw1,Supervisor ,Bobbin change
+09/07/2020 10:09:26,Wet Draw1,Supervisor ,Sir.wd1 copper tank wire cut.due to bearing pulley problem.
+09/07/2020 10:13:53,Wet Draw1,Jayaprakash Achuthan,How within 1 hour pulley wear out
+09/07/2020 10:37:00,Wet Draw1,Lincoln_Admin ,No answer?
+09/07/2020 10:47:05,Wet Draw1,Supervisor ,Before shift started all pulley checked.with maintenance &operator checked k.m/c running time pp hub removed in bearing shaft
+09/07/2020 13:05:09,Wet Draw1,Supervisor ,After final die wire cut material problem
+09/07/2020 13:05:37,Wet Draw1,Jayaprakash Achuthan,Check with QA by having samples
+09/07/2020 15:44:02,Wet Draw1,Supervisor ,wire cut 1.26 die
+09/07/2020 16:46:16,Wet Draw1,Supervisor ,Rotating die alarm break down raised.
+09/07/2020 21:20:32,Wet Draw1,Supervisor ,Pfd wire cut
+09/07/2020 21:30:20,Wet Draw1,Jayaprakash Achuthan,why weld cut.check mc or weld quality problem
+09/07/2020 21:49:48,Wet Draw1,Supervisor ,Material broken issue so wire cut
+09/07/2020 23:06:33,Wet Draw1,Supervisor ,Bobbin change & fd change
+10/07/2020 01:02:18,Wet Draw1,Supervisor ,Bobbin change
+10/07/2020 02:15:10,Wet Draw1,Supervisor ,Cast & helix area wire cut
+10/07/2020 04:25:23,Wet Draw1,Supervisor ,Bobbin change
+10/07/2020 09:01:44,Wet Draw1,Supervisor ,Wire cut cast helix roller
+10/07/2020 09:08:55,Wet Draw1,Supervisor ,Again wire cut
+10/07/2020 09:10:29,Wet Draw1,Jayaprakash Achuthan,Why any rotating part struck ups?
+10/07/2020 09:13:14,Wet Draw1,Supervisor ,Before all checked after start the machine now analysis
+10/07/2020 09:20:52,Wet Draw1,Supervisor ,Again wire cut cast helix maintenance checking
+10/07/2020 09:32:06,Wet Draw1,Jayaprakash Achuthan,I informed Dhieva sir also.Please chase karthick if it so
+10/07/2020 10:58:23,Wet Draw1,Supervisor ,BOBBIN CH
+10/07/2020 13:43:53,Wet Draw1,Supervisor ,skin pass ch
+10/07/2020 16:36:09,Wet Draw1,Supervisor ,1.26 die wire cut
+10/07/2020 21:53:20,Wet Draw1,Supervisor ,Wire cut problem
+11/07/2020 02:01:27,Wet Draw1,Supervisor ,Bobbin change
+11/07/2020 03:17:34,Wet Draw1,Supervisor ,Setting change
+13/07/2020 10:23:34,Wet Draw1, ,final die change
+13/07/2020 10:47:07,Wet Draw1,IoT_Admin ,Select you name in drop down and save.... operator name not comming
+13/07/2020 12:12:49,Wet Draw1,Supervisor Supervisor,Bc
+13/07/2020 12:24:54,Wet Draw1,Thirumurugan Ramalingam,JP How WD 1 Target is Different  Compare to other WD's
+13/07/2020 12:39:23,Wet Draw1,Jayaprakash Achuthan,If operator selects LAte the target will change.I am checking whether it is due to Operator late selection or router not connected at selecting time
+13/07/2020 12:41:07,Wet Draw1,IoT_Admin ,Router was active from 9:06am    he selected product at 9:17am  please see in kg graph
+13/07/2020 12:42:46,Wet Draw1,Jayaprakash Achuthan,i am checking whether he tried before 9.05 am and failed.Then after starting machine he again selected product 
+13/07/2020 14:04:02,Wet Draw1,Supervisor ,Fd & bc
+13/07/2020 15:51:21,Wet Draw1,Supervisor ,Bc
+13/07/2020 16:17:39,Wet Draw1,Supervisor ,Wire cut 
+13/07/2020 21:06:52,Wet Draw1,Supervisor ,skinpass ch
+13/07/2020 22:31:57,Wet Draw1,Supervisor ,bc ch
+14/07/2020 00:20:20,Wet Draw1,Supervisor ,BC ch
+14/07/2020 02:11:26,Wet Draw1,Supervisor ,Fd ch
+14/07/2020 03:55:15,Wet Draw1,Supervisor ,bc
+14/07/2020 09:47:15,Wet Draw1,Supervisor ,Fdc & bc
+14/07/2020 13:34:05,Wet Draw1,Supervisor ,Setting ch & fdc 
+14/07/2020 13:34:38,Wet Draw1,Supervisor ,Setting ch & fdc 
+14/07/2020 22:32:15,Wet Draw1,Supervisor ,fd ch
+15/07/2020 02:18:17,Wet Draw1,Supervisor ,Fd ch
+15/07/2020 02:18:34,Wet Draw1,Supervisor ,BC 
+15/07/2020 04:07:31,Wet Draw1,Supervisor ,bc
+15/07/2020 09:49:53,Wet Draw1,Supervisor ,Fdc& bc
+15/07/2020 11:51:03,Wet Draw1,Supervisor ,Bc & setting ch
+15/07/2020 13:15:50,Wet Draw1,Supervisor ,Wire cut 
+15/07/2020 14:14:12,Wet Draw1,Supervisor ,Setting ch
+15/07/2020 16:23:47,Wet Draw1,Supervisor ,BC
+15/07/2020 22:10:01,Wet Draw1,Supervisor ,fd&bc
+15/07/2020 23:57:54,Wet Draw1,Supervisor ,bc
+16/07/2020 00:03:39,Wet Draw1,Supervisor ,skinpass ch
+16/07/2020 01:56:58,Wet Draw1,Supervisor ,Bc
+16/07/2020 03:46:52,Wet Draw1,Supervisor ,Bc
+16/07/2020 03:52:01,Wet Draw1,Supervisor ,Bc
+16/07/2020 09:53:17,Wet Draw1,Supervisor ,FD & BC
+16/07/2020 13:36:04,Wet Draw1,Supervisor ,Fdc & bc
+16/07/2020 22:36:07,Wet Draw1,Supervisor ,all m/c power fluctuation wire cut
+17/07/2020 00:45:00,Wet Draw1,Supervisor ,bc&skinpass ch
+17/07/2020 10:52:10,Wet Draw1,Supervisor ,bc
+17/07/2020 10:53:39,Wet Draw1,Supervisor ,bc
+17/07/2020 12:43:03,Wet Draw1,Supervisor ,Fd & bc
+17/07/2020 14:33:39,Wet Draw1,Supervisor ,BC
+17/07/2020 16:22:03,Wet Draw1,Supervisor ,BC
+17/07/2020 22:26:51,Wet Draw1,Supervisor ,1.26die wire cut
+18/07/2020 21:03:13,Wet Draw1,Supervisor ,skinpass ch
+18/07/2020 22:32:07,Wet Draw1,Supervisor ,fd ch
+19/07/2020 04:37:38,Wet Draw1,Supervisor ,Fd & bc
+20/07/2020 10:11:55,Wet Draw1,Supervisor ,fd& bc 
+20/07/2020 12:07:12,Wet Draw1,Supervisor ,Bc
+20/07/2020 13:53:00,Wet Draw1,Supervisor ,Fd & bc
+20/07/2020 15:48:17,Wet Draw1,Supervisor ,Bc
+20/07/2020 16:04:09,Wet Draw1,Supervisor ,Bc
+20/07/2020 23:53:10,Wet Draw1,Supervisor ,BC
+21/07/2020 01:39:34,Wet Draw1,Supervisor ,Bc
+21/07/2020 01:40:46,Wet Draw1,Supervisor ,Fdc
+21/07/2020 01:59:44,Wet Draw1,Supervisor , pfd wire cut 
+21/07/2020 04:01:28,Wet Draw1,Supervisor ,BC
+21/07/2020 09:08:23,Wet Draw1,Supervisor ,Cast helix wire cut
+21/07/2020 10:43:16,Wet Draw1,Supervisor ,all machine power cut.power will resume by half an hour
+21/07/2020 14:21:04,Wet Draw1,Supervisor ,Pulley ch
+21/07/2020 22:51:02,Wet Draw1,Supervisor ,Bc
+22/07/2020 02:30:03,Wet Draw1,Supervisor ,BC
+22/07/2020 04:13:11,Wet Draw1,Supervisor ,Fdc bc
+22/07/2020 10:49:36,Wet Draw1,Supervisor ,bc
+22/07/2020 11:05:12,Wet Draw1,Supervisor ,bull block dancer pulley problem
+22/07/2020 11:20:30,Wet Draw1,Supervisor ,Cast helix wire cut
+22/07/2020 20:54:36,Wet Draw1,Supervisor ,Start-up
+22/07/2020 23:18:57,Wet Draw1,Supervisor ,BC
+23/07/2020 01:01:09,Wet Draw1,Supervisor ,Fdc & BC
+23/07/2020 04:42:45,Wet Draw1,Supervisor ,bc fdc
+23/07/2020 14:15:30,Wet Draw1,Supervisor ,Skin pass & bc
+24/07/2020 09:41:34,Wet Draw1,Supervisor ,1.26 die wire cut
+24/07/2020 10:00:16,Wet Draw1,Supervisor , new setting ch
+24/07/2020 12:00:13,Wet Draw1,Supervisor ,bc&fd ch
+24/07/2020 15:42:47,Wet Draw1,Supervisor ,Bc & Fdc
+27/07/2020 09:06:23,Wet Draw1,Supervisor ,All machine start-up
+27/07/2020 21:02:52,Wet Draw1, ,copper tank wire pulling
+27/07/2020 23:05:06,Wet Draw1,Supervisor ,Bc
+28/07/2020 00:21:11,Wet Draw1,Supervisor ,Bc
+28/07/2020 03:00:08,Wet Draw1,Supervisor ,BC&fd ch
+28/07/2020 04:18:57,Wet Draw1,Supervisor ,Bc
+28/07/2020 09:04:41,Wet Draw1,Supervisor ,All machine start-up
+28/07/2020 10:46:32,Wet Draw1, ,Pre final die wire cut
+28/07/2020 21:04:05,Wet Draw1, ,fd ch
+28/07/2020 22:55:41,Wet Draw1,Supervisor ,Skin pass ch
+29/07/2020 00:49:31,Wet Draw1,Supervisor ,Bc
+29/07/2020 02:21:26,Wet Draw1, ,wirecut pfd
+29/07/2020 09:13:11,Wet Draw1,Supervisor ,All machine start-up
+29/07/2020 09:41:26,Wet Draw1, ,bc
+29/07/2020 11:35:05,Wet Draw1,Supervisor ,Cast helix wire cut & bc
+29/07/2020 15:20:13,Wet Draw1,Supervisor ,Emulsionbath back side smoke coming now maintenance checking.
+29/07/2020 22:53:30,Wet Draw1, ,bc
+30/07/2020 00:41:39,Wet Draw1, ,fd & bc
+30/07/2020 00:50:37,Wet Draw1, ,skinpass change
+30/07/2020 02:37:46,Wet Draw1, ,bc
+30/07/2020 04:29:09,Wet Draw1, ,fd
+30/07/2020 09:01:48,Wet Draw1,Supervisor ,Start-up
+30/07/2020 09:49:43,Wet Draw1,Supervisor ,All machine power cut
+30/07/2020 11:29:54,Wet Draw1,Supervisor ,Pre final die wire cut
+30/07/2020 11:46:03,Wet Draw1,Jayaprakash Achuthan,Check any butt weld from dd machine
+30/07/2020 12:15:01,Wet Draw1,Supervisor ,Setting over size so now new setting change
+30/07/2020 13:29:45,Wet Draw1,Supervisor ,1.26 die wire cut due to 4th axis cone Grove problem so cone changing process going
+30/07/2020 13:31:21,Wet Draw1,Jayaprakash Achuthan,Wire cut frequent after 6 MT.Due to that machine yield low die life.Checked with die change in case of over size but again wire cut in same spot.Checking cone
+30/07/2020 13:40:11,Wet Draw1, ,now cone ch work going
+30/07/2020 14:17:11,Wet Draw1, ,now wire pulling
+31/07/2020 12:45:50,Wet Draw1,Supervisor ,Bc
+31/07/2020 14:41:29,Wet Draw1,Supervisor ,Fdc BC
+31/07/2020 21:01:59,Wet Draw1, ,copper tank wire pulling
+31/07/2020 21:46:47,Wet Draw1, ,skinpass ch &bc
+31/07/2020 23:43:37,Wet Draw1,Supervisor ,Bc
+31/07/2020 23:43:47,Wet Draw1,Supervisor ,Bc
+01/08/2020 03:41:24,Wet Draw1,Supervisor ,BC&fd ch
+01/08/2020 09:43:10,Wet Draw1,Supervisor ,Fd & bc
+01/08/2020 11:29:22,Wet Draw1,Supervisor ,Setting change
+03/08/2020 09:07:43,Wet Draw1,Supervisor ,Start-up
+03/08/2020 09:10:19,Wet Draw1,Jayaprakash Achuthan,Started and stopped now
+03/08/2020 09:18:41,Wet Draw1,Supervisor ,Bc
+03/08/2020 09:19:17,Wet Draw1,Supervisor ,Copper coaing checking
+03/08/2020 11:42:25,Wet Draw1,Supervisor ,Qa trail
+03/08/2020 12:39:51,Wet Draw1,Supervisor ,BC&fd ch
+03/08/2020 12:47:52,Wet Draw1,Supervisor ,Skin pass ch
+03/08/2020 14:47:41,Wet Draw1,Supervisor ,Pulley ch
+03/08/2020 16:42:24,Wet Draw1,Supervisor ,Bc
+05/08/2020 09:05:22,Wet Draw1,Supervisor ,Wire cut 1.78 die
+05/08/2020 09:11:34,Wet Draw1,Jayaprakash Achuthan,Weld cut?
+05/08/2020 14:58:56,Wet Draw1,Supervisor ,FDC & BC
+05/08/2020 15:54:07,Wet Draw1,Supervisor ,Skin pass ch
+06/08/2020 21:31:33,Wet Draw 1,Supervisor ,BC
+06/08/2020 23:16:09,Wet Draw 1,Supervisor ,Fdc BC
+06/08/2020 23:33:06,Wet Draw 1,Supervisor ,BC
+07/08/2020 01:13:24,Wet Draw 1,Supervisor ,Wire cut
+07/08/2020 01:32:03,Wet Draw 1,Supervisor ,New setting change
+07/08/2020 21:13:26,Wet Draw 1, ,Start-up
+07/08/2020 22:06:31,Wet Draw 1, ,Skin pass change
+08/08/2020 00:28:28,Wet Draw 1, ,Wire cut in cast helix roller now wire pulling
+08/08/2020 03:14:55,Wet Draw 1,Supervisor ,BC
+08/08/2020 12:41:59,Wet Draw 1,Supervisor ,Setting change
+10/08/2020 09:23:05,Wet Draw 1,Jayaprakash Achuthan,some one switched OFF central TV UPS.So delay ion selection.Check who it is?
+10/08/2020 10:31:44,Wet Draw 1,Supervisor ,BC
+10/08/2020 10:46:41,Wet Draw 1,Jayaprakash Achuthan,Copper thickness not in spec now
+10/08/2020 16:13:38,Wet Draw 1,Supervisor ,BC
+10/08/2020 22:06:51,Wet Draw 1,Supervisor ,fd wire cut
+11/08/2020 00:13:57,Wet Draw 1,Supervisor ,bc
+11/08/2020 02:02:49,Wet Draw 1,Supervisor ,Fd ch
+11/08/2020 09:43:05,Wet Draw 1,Supervisor ,Pfd wire cut
+11/08/2020 10:26:00,Wet Draw 1,Supervisor ,Cast helix roller wire cut 
+11/08/2020 10:26:34,Wet Draw 1,Jayaprakash Achuthan,start the machine immediately
+11/08/2020 12:31:53,Wet Draw 1,Supervisor ,BC & skin pass change
+11/08/2020 22:20:43,Wet Draw 1,Supervisor ,Fd wire cut
+12/08/2020 00:19:19,Wet Draw 1,Supervisor ,Bc
+12/08/2020 10:51:43,Wet Draw 1,Supervisor ,BC
+12/08/2020 12:47:10,Wet Draw 1,Supervisor ,Bc
+12/08/2020 12:47:28,Wet Draw 1,Supervisor ,Fdc
+12/08/2020 13:17:48,Wet Draw 1,Supervisor ,Fd wire cut  and wire pulling
+12/08/2020 14:04:20,Wet Draw 1,Supervisor ,Fd wire cut material broken 
+12/08/2020 14:04:47,Wet Draw 1,Supervisor ,Now wire pulling and reel change
+12/08/2020 14:53:01,Wet Draw 1,Supervisor ,Resetting change fdc
+12/08/2020 14:58:08,Wet Draw 1,Jayaprakash Achuthan,Rajesh your performance is not at all meeting requirements
+12/08/2020 16:49:18,Wet Draw 1,Supervisor ,Skin pass change
+12/08/2020 16:50:01,Wet Draw 1,Jayaprakash Achuthan,new skin ppass?
+12/08/2020 17:08:55,Wet Draw 1,Rajesh A,Yes sir
+12/08/2020 21:13:48,Wet Draw 1,Supervisor ,setting ch
+13/08/2020 01:00:56,Wet Draw 1,Supervisor ,BC&fd ch
+13/08/2020 02:50:29,Wet Draw 1,Supervisor ,Bc
+13/08/2020 03:26:54,Wet Draw 1,Supervisor ,wire cut 1.26 die
+13/08/2020 09:01:38,Wet Draw 1,Supervisor ,Start-up
+13/08/2020 10:49:15,Wet Draw 1,Jayaprakash Achuthan,why stoped now
+13/08/2020 15:28:32,Wet Draw 1,Supervisor ,Handover to maintenance so wd10 MC start-up
+13/08/2020 21:13:26,Wet Draw 1,Supervisor ,fd ch
+14/08/2020 10:52:35,Wet Draw 1,Supervisor ,BC
+14/08/2020 12:49:01,Wet Draw 1,Supervisor ,Fdc BC
+14/08/2020 14:41:37,Wet Draw 1,Supervisor ,Reel change
+14/08/2020 14:41:48,Wet Draw 1,Supervisor ,Bobbin change
+17/08/2020 10:50:41,Wet Draw 1,Supervisor ,Bc
+17/08/2020 14:25:11,Wet Draw 1,Supervisor ,Skin pass ch
+17/08/2020 16:27:09,Wet Draw 1, ,bc
+17/08/2020 21:01:43,Wet Draw 1,Supervisor ,Start-up
+17/08/2020 21:18:54,Wet Draw 1,Supervisor ,1.78 die wire cut now wire pulling
+17/08/2020 21:54:52,Wet Draw 1,Supervisor ,Copper tank wire pulling
+18/08/2020 02:44:52,Wet Draw 1,Supervisor ,Pfd wire cut
+18/08/2020 02:45:49,Wet Draw 1,Supervisor ,New setting change 
+18/08/2020 10:38:31,Wet Draw 1,Supervisor ,Fd& bc
+18/08/2020 14:24:02,Wet Draw 1,Supervisor ,bc&fd ch
+18/08/2020 21:01:35,Wet Draw 1,Supervisor ,Start-up
+18/08/2020 21:39:23,Wet Draw 1,Supervisor ,Skin pass change BC
+18/08/2020 23:04:13,Wet Draw 1,Supervisor ,Fdc BC
+19/08/2020 10:49:07,Wet Draw 1,Supervisor ,BC&fd ch
+19/08/2020 22:47:43,Wet Draw 1,Supervisor ,BC
+19/08/2020 23:56:11,Wet Draw 1,Supervisor ,Skin pass change
+19/08/2020 23:56:18,Wet Draw 1,Supervisor ,BC
+20/08/2020 01:58:43,Wet Draw 1,Supervisor ,Fd wire cut problem bull block drive alarm coming
+20/08/2020 02:04:54,Wet Draw 1,Supervisor ,BC
+20/08/2020 21:08:57,Wet Draw 1,Supervisor ,Start-up
+21/08/2020 01:04:33,Wet Draw 1,Supervisor ,Skin pass change
+21/08/2020 09:33:58,Wet Draw 1,Supervisor ,Fd wire cut
+21/08/2020 12:07:52,Wet Draw 1,Supervisor ,Fd wire cut.material broken
+24/08/2020 11:47:07,Wet Draw 1,Supervisor ,BC
+24/08/2020 13:33:23,Wet Draw 1,Supervisor ,BC fdc
+24/08/2020 21:07:05,Wet Draw 1,Supervisor ,all m/c air pressure pb
+24/08/2020 22:38:45,Wet Draw 1,Supervisor ,bc&fd ch
+25/08/2020 10:01:06,Wet Draw 1,Supervisor ,Fdc BC
+25/08/2020 21:58:14,Wet Draw 1,Supervisor ,Bc
+26/08/2020 12:49:31,Wet Draw 1,Supervisor ,Payoff wire cut 
+26/08/2020 16:35:05,Wet Draw 1, ,Siva Why WD 1 have Low Output ???
+26/08/2020 21:12:01,Wet Draw 1,Supervisor ,fd ch &bc
+28/08/2020 02:32:21,Wet Draw 1,Supervisor ,Bc
+28/08/2020 21:13:16,Wet Draw 1,Supervisor ,bull block not rotate
+29/08/2020 15:25:47,Wet Draw 1,Supervisor ,Cast helix wire cut heat No M68424 Tata
+31/08/2020 09:06:21,Wet Draw 1,Supervisor ,wd 30kg running copper coating low
+31/08/2020 09:26:06,Wet Draw 1, ,Now switching ON boiler and runing machin e
+31/08/2020 21:22:33,Wet Draw 1,Supervisor ,Fd wire cut
+01/09/2020 00:10:45,Wet Draw 1,Supervisor ,1.48 wire cut due to weld prolem
+01/09/2020 00:48:21,Wet Draw 1,Supervisor ,Again wire cut 1st die over size  so 1.96 die ch and resetting
+01/09/2020 01:14:45,Wet Draw 1,Supervisor ,Again pre final die wire cut now new setting change
+01/09/2020 09:56:01,Wet Draw 1,Supervisor ,pay off wire cut
+02/09/2020 22:57:04,Wet Draw 1,Supervisor ,4th axis shaft not rotating maintenance working breakdown  raised  and wd5 m/c startup
+04/09/2020 12:38:50,Wet Draw 1,Supervisor ,all machine power cut
+05/09/2020 09:59:59,Wet Draw 1,Supervisor ,FD WIRE CUT
+05/09/2020 15:48:04,Wet Draw 1,Supervisor ,all machine power cut
+06/09/2020 15:50:22,Wet Draw 1,Supervisor ,setting ch
+17/09/2020 09:02:31,Wet Draw 1,Supervisor ,Fdc
+17/09/2020 09:52:31,Wet Draw 1,Supervisor ,Machine stop plan wd-6
+21/09/2020 14:41:23,Wet Draw 1,Bakkiyaraj.K,test msg from admin 01
+21/09/2020 14:47:25,Wet Draw 1,Bakkiyaraj.K,h1
+21/09/2020 14:51:51,Wet Draw 1,Bakkiyaraj.K,h1
+22/09/2020 14:16:16,Wet Draw 1,MD_Sundarram ,why is uptime only 35%?
+22/09/2020 15:45:38,Wet Draw 1, ,Sir Machine started for trial after 10 AM for checking CLIT process.After that not switched OFF in IoT.After wd6 breakdown WD1 continued 
+28/09/2020 10:47:52,Wet Draw 1,Supervisor ,all wd m/c stop due to rinse water inlet ph  value 10.3
+30/09/2020 10:16:32,Wet Draw 1,vignesh,Power cut so m/c stop
+30/09/2020 21:23:47,Wet Draw 1,Supervisor ,cu tank wire pulling
+01/10/2020 09:21:34,Wet Draw 1, ,Power cut at 9.10 am
+01/10/2020 13:42:55,Wet Draw 1,Supervisor ,Cast helix wire cut now checking
+05/10/2020 15:35:37,Wet Draw 1,Thirumurugan Ramalingam,JP  WD1 Stopped for more than 35 MIn  I checked and found operator simply standing on Wd2 not starting the WD1  . No supervisor omn that Machine  even Wd team Leader also not noticing this Stoppage
+05/10/2020 15:37:53,Wet Draw 1,Thirumurugan Ramalingam,JP WD 1 Stopped for more than 35 Min without Any Reason  I went to that Machine and Find that operates standing on next machine and started started this Machine  
+05/10/2020 16:59:20,Wet Draw 1, ,test msg 
+05/10/2020 22:31:34,Wet Draw 1,Supervisor ,resetting
+07/10/2020 08:35:43,Wet Draw 1, ,test msg
+07/10/2020 08:36:25,Wet Draw 1, ,good morning
+07/10/2020 11:27:34,Wet Draw 1, ,pH low now switching stand by line
+09/10/2020 11:29:28,Wet Draw 1,Murugan ,jpWD 3 8 9 11 machines skinpass dosing pump not working please raise this to maintenance immediately
+09/10/2020 13:34:32,Wet Draw 1, ,Yes will do needful immediately
+12/10/2020 08:57:30,Wet Draw 1,ManiRaghu ,kannan cu conc 10.5nearing yellow. i sent same msg in etp ewon. respond fast
+12/10/2020 15:03:39,Wet Draw 1,Supervisor ,rinsing water inlet flow low maintenance working
+12/10/2020 17:43:29,Wet Draw 1,Supervisor ,setting ch
+13/10/2020 12:04:03,Wet Draw 1,Supervisor ,SETTING WIRE CUT
+14/10/2020 12:43:35,Wet Draw 1,Supervisor ,skinpass ch
+14/10/2020 14:51:06,Wet Draw 1, ,Setting die life is reduced for last 2 shifts
+14/10/2020 14:52:24,Wet Draw 1, ,Change is TATA coil with less scale from yesterday.Emulsion brix went to LSL for last 2 days.
+15/10/2020 13:51:40,Wet Draw 1,ManiRaghu ,JP PLS RAISE DEVIATION FOR LOW COPPER COATING BY TODAY
+15/10/2020 13:52:12,Wet Draw 1,ManiRaghu ,5% SLOW SPEED WD12?
+15/10/2020 20:54:38,Wet Draw 1,Supervisor ,fd wire cut now checking
+16/10/2020 11:14:31,Wet Draw 1, ,test msg
+19/10/2020 09:47:29,Wet Draw 1,ManiRaghu ,JP wet draw people are not doing proper automaic reel change. few wire left in boobin & scrapped as EOR in dry draw. Please instruct them not to do... from today it will be Rs. 100 ZT
+19/10/2020 09:47:42,Wet Draw 1,ManiRaghu ,18 kg scrap in DD as EOR !!!
+19/10/2020 09:51:25,Wet Draw 1,ManiRaghu ,JP overdue products without deviation??? how many more days? please do TODAY
+19/10/2020 12:00:50,Wet Draw 1,ManiRaghu ,jp??? 
+19/10/2020 12:02:16,Wet Draw 1, ,let me check and revert
+20/10/2020 07:06:13,Wet Draw 1,Supervisor ,FDC
+21/10/2020 15:33:40,Wet Draw 1,Supervisor ,Fdc & pulley change
+21/10/2020 16:41:29,Wet Draw 1, ,test msg
+21/10/2020 23:57:21,Wet Draw 1,Supervisor ,skinpass ch
+22/10/2020 00:09:55,Wet Draw 1,Supervisor ,setting ch
+22/10/2020 07:12:37,Wet Draw 1,Supervisor ,SKINPASS CH
+22/10/2020 07:23:26,Wet Draw 1,Jayaprakash Achuthan,Night only skin pass changed?
+22/10/2020 23:38:43,Wet Draw 1,Supervisor ,setting ch
+23/10/2020 07:04:06,Wet Draw 1,Supervisor ,all m/c power cut issue 6.36am
+23/10/2020 09:15:38,Wet Draw 1,Supervisor ,Fdc
+23/10/2020 14:13:31,Wet Draw 1,Supervisor ,after final die wire cut now wire pulling
+23/10/2020 15:09:44,Wet Draw 1,Supervisor ,again wire cut now reel change
+24/10/2020 00:38:54,Wet Draw 1,Supervisor ,Setting ch
+24/10/2020 08:22:27,Wet Draw 1,Supervisor ,FDC
+24/10/2020 12:20:52,Wet Draw 1,Supervisor ,Bc
+27/10/2020 07:30:17,Wet Draw 1,Supervisor ,Reel ch & fdc
+27/10/2020 09:17:52,Wet Draw 1,ManiRaghu ,JP why this many wd stopped???? one slot loss i n IEX
+27/10/2020 09:18:13,Wet Draw 1,Supervisor ,1.78 die broken due small cone groove now resetting
+27/10/2020 09:18:37,Wet Draw 1,Supervisor ,Sorry sir wd-5
+27/10/2020 09:19:24,Wet Draw 1,ManiRaghu ,superviosr why this many machines are stop at once??
+27/10/2020 09:43:22,Wet Draw 1,Supervisor ,Wd-3.6 die block not rotating maintenance working and wd-5 die brokenNow wd-3 running
+27/10/2020 09:54:48,Wet Draw 1,Supervisor ,After final die wire cut now wire pulling and same time skin pass change
+27/10/2020 16:12:16,Wet Draw 1,Supervisor ,Rinsing water inlet flow low maintenance working
+27/10/2020 20:37:49,Wet Draw 1,Supervisor ,Payoff wire cut
+28/10/2020 07:23:50,Wet Draw 1,Supervisor ,Skin pass change
+28/10/2020 08:32:33,Wet Draw 1,Supervisor ,Bc
+28/10/2020 09:12:26,Wet Draw 1,Supervisor ,Setting wire cut due to pay off basket out of limit now maintenance checking
+29/10/2020 10:59:58,Wet Draw 1, ,Emulsion pump issue and machine under maintanence
+29/10/2020 18:53:27,Wet Draw 1,Supervisor ,Bc
+29/10/2020 22:17:18,Wet Draw 1,Supervisor ,Bc
+30/10/2020 01:45:07,Wet Draw 1,Supervisor ,Setting die wire cut due to pay off basket automatically alignment change now maintenance working 
+30/10/2020 02:16:38,Wet Draw 1,Supervisor ,Machine stop break down raised Wd-2 plan
+30/10/2020 02:26:03,Wet Draw 1,Supervisor ,Last two days 3time coming 
+30/10/2020 08:09:18,Wet Draw 1,New Saravanan,Hmi error problem corrected
+30/10/2020 09:34:02,Wet Draw 1, ,Remove all unwanted things .1 S
+31/10/2020 09:37:40,Wet Draw 1,Jayaprakash Achuthan,Emulsion batch mode with mahindra water going on for foam formation
+02/11/2020 06:28:32,Wet Draw 1,Supervisor ,Fd & bc
+02/11/2020 19:35:39,Wet Draw 1,Ghanshyam,LPP3480 Batch mode ..Sample running at 0.8% Brix
+03/11/2020 14:09:20,Wet Draw 1,Essakimuthu,Wetdraw2 and wd5  wire cut due to material issue
+05/11/2020 06:51:17,Wet Draw 1, ,skinpass ch
+05/11/2020 16:14:10,Wet Draw 1,Supervisor ,Fdc
+05/11/2020 19:47:50,Wet Draw 1,Ghanshyam,Fd wire cut && fdc
+06/11/2020 10:09:35,Wet Draw 1,Supervisor ,Fd wire cut due material problem
+06/11/2020 10:59:22,Wet Draw 1,Jayaprakash Achuthan,Hand over samples to purchase Senthil Nathan sir
+06/11/2020 14:25:32,Wet Draw 1,Supervisor ,Fd wire cut now checking and wire pulling
+06/11/2020 15:37:43,Wet Draw 1,Supervisor ,Pay off wire wire cut due to material problem now resetting pullingSample hand over to qa
+07/11/2020 00:47:12,Wet Draw 1,Supervisor ,1.78 die wire cut due 1.96 die over size setting life is 6.87 Mt so now new setting change
+07/11/2020 07:35:08,Wet Draw 1,Supervisor ,Setting die wire cut
+07/11/2020 09:14:08,Wet Draw 1,Supervisor ,Paramount fd ch after 15kg run only fd broken
+07/11/2020 09:41:55,Wet Draw 1,Supervisor ,Fd wire cut
+07/11/2020 10:15:15,Wet Draw 1,Supervisor ,2times wire cut cast helix 
+07/11/2020 10:16:04,Wet Draw 1,Supervisor ,now maintenance checking
+07/11/2020 18:12:14,Wet Draw 1,Supervisor ,After final die wire cut due to material brokenM75617/375/A7394
+08/11/2020 05:51:00,Wet Draw 1,Supervisor ,Skinpass change 
+08/11/2020 05:51:29,Wet Draw 1,Supervisor ,Pfd wire cut
+09/11/2020 06:48:21,Wet Draw 1,Supervisor ,Cast helix wire cut now checking
+09/11/2020 11:43:28,Wet Draw 1,Ghanshyam,Power cut
+09/11/2020 12:24:59,Wet Draw 1,Supervisor ,Copper tank wire pulling
+10/11/2020 08:52:04,Wet Draw 1,Ghanshyam,Wire twist in emulsion tank
+10/11/2020 09:11:05,Wet Draw 1,Supervisor ,Setting die wire cut now checking
+10/11/2020 09:33:06,Wet Draw 1,Supervisor ,1.78 die broken setting life 6.1mt running now new setting change and checking
+10/11/2020 22:48:06,Wet Draw 1, ,test msg from dev 
+10/11/2020 23:40:59,Wet Draw 1, ,hii
+10/11/2020 23:46:18,Wet Draw 1, ,Test msg from developer
+11/11/2020 13:16:35,Wet Draw 1, ,test msg from dev
+11/11/2020 13:18:26,Wet Draw 1, ,test msg again
+11/11/2020 14:28:07,Wet Draw 1, ,test msg
+11/11/2020 14:29:19,Wet Draw 1, ,test msg1
+11/11/2020 14:57:12,Wet Draw 1, ,Hii
+11/11/2020 15:03:55,Wet Draw 1, ,Test msg for central chat
+11/11/2020 15:13:10,Wet Draw 1, ,test msg
+11/11/2020 15:27:44,Wet Draw 1, ,test msg 1
+11/11/2020 15:28:45,Wet Draw 1, ,test msg
+11/11/2020 15:36:02,Wet Draw 1, ,test msg
+11/11/2020 16:09:13,Wet Draw 1, ,test
+11/11/2020 16:12:16,Wet Draw 1, ,test
+11/11/2020 16:14:43,Wet Draw 1, ,test check
+11/11/2020 16:51:09,Wet Draw 1, ,test1
+11/11/2020 16:54:01,Wet Draw 1, ,test again
+11/11/2020 17:13:37,Wet Draw 1, ,Final Test For chat proxy
+11/11/2020 17:14:33,Wet Draw 1, ,final check 2
+11/11/2020 17:15:25,Wet Draw 1, ,final check 2
+11/11/2020 17:16:23,Wet Draw 1, ,check
+11/11/2020 18:19:58,Wet Draw 1, ,hlw
+11/11/2020 18:20:34,Wet Draw 1, ,hlw
+11/11/2020 18:21:29,Wet Draw 1, ,check
+11/11/2020 18:24:47,Wet Draw 1, ,check1
+12/11/2020 01:40:07,Wet Draw 1,Supervisor ,Iot not working
+12/11/2020 09:15:01,Wet Draw 1,Supervisor ,Setting die wire cut now wire pulling
+12/11/2020 10:33:46,Wet Draw 1,Amalraj K,Die block mounting rotating problem machine under maintenance working
+12/11/2020 11:19:05,Wet Draw 1, ,test msg
+12/11/2020 11:41:22,Wet Draw 1, ,Check msg
+12/11/2020 11:56:10,Wet Draw 1, ,Test msg for cental chatter
+12/11/2020 11:57:06,Wet Draw 1, ,Test msg 
+12/11/2020 12:01:10,Wet Draw 1, ,Final test on Lan
+12/11/2020 12:03:21,Wet Draw 1, ,check
+12/11/2020 12:03:48,Wet Draw 1, ,check data in central chat
+12/11/2020 12:07:30,Wet Draw 1, ,Test on talk2m
+12/11/2020 17:04:35,Wet Draw 1, ,Test msg,Thread chat from Wd 
+12/11/2020 17:07:41,Wet Draw 1, ,Test1,Thread chat from Wd 
+16/11/2020 22:55:28,Wet Draw 1,Supervisor ,1.96 wire cut now checking
+17/11/2020 04:37:16,Wet Draw 1,Supervisor ,All machine power cut
+17/11/2020 08:33:23,Wet Draw 1,Supervisor ,1.96 die wire cut now checking and re setting change
+17/11/2020 10:12:35,Wet Draw 1,Supervisor ,Copper tank support Bolt problem maintenance working
+17/11/2020 16:56:07,Wet Draw 1,Supervisor ,1.96 die only change
+17/11/2020 17:52:57,Wet Draw 1,Supervisor ,Fd wire cut
+18/11/2020 00:42:19,Wet Draw 1,Supervisor ,pre final die rotating problem break down raised wd-3 plan
+18/11/2020 07:34:20,Wet Draw 1,Supervisor ,Pre final die block not rotating
+18/11/2020 11:33:08,Wet Draw 1, ,Test msg,No Thread
+18/11/2020 16:21:18,Wet Draw 1, ,Test msg for blink,No Thread
+18/11/2020 16:22:30,Wet Draw 1, ,chat msg for blink on central chat,No Thread
+18/11/2020 23:14:15,Wet Draw 1,Supervisor ,Pay off wire cut now resetting
+19/11/2020 09:24:45,Wet Draw 1, ,Test1,Thread test Msg
+19/11/2020 09:57:09,Wet Draw 1, ,test msg,No Thread
+20/11/2020 10:15:37,Wet Draw 1,Ghanshyam,Testmsg
+20/11/2020 10:18:35,Wet Draw 1,Ghanshyam,Test1,Test msg for Thread
+20/11/2020 10:26:14,Wet Draw 1,Ghanshyam,test3,Test msg for Thread
+20/11/2020 10:31:35,Wet Draw 1,Ghanshyam,Test 4,Test msg for Thread
+20/11/2020 10:39:47,Wet Draw 1,Ghanshyam,test 5,Test msg for Thread
+20/11/2020 10:40:59,Wet Draw 1,Ghanshyam,test for central chat,Test msg for Thread
+20/11/2020 12:06:19,Wet Draw 1,Ghanshyam,Text6,Thread testing operator
+21/11/2020 06:14:37,Wet Draw 1,Supervisor ,All m/c power cut,No Thread
+21/11/2020 12:20:37,Wet Draw 1,Supervisor ,4th axis 2nd cone is grove problem so 1.78 wire cut issue 2time ,No Thread
+21/11/2020 14:52:25,Wet Draw 1,Supervisor ,Setting change previous shift die broken ,No Thread
+23/11/2020 14:33:39,Wet Draw 1, ,Test message,Issue
+23/11/2020 14:35:49,Wet Draw 1,New Aravinda,Operator issue can be typed by selecting thread topic,Issue
+23/11/2020 14:37:15,Wet Draw 1,New Aravinda,New test message,New topic
+23/11/2020 14:42:26,Wet Draw 1,New Aravinda,Test msg ,Issue
+23/11/2020 22:52:57,Wet Draw 1,Supervisor ,Setting change,No Thread
+24/11/2020 00:53:32,Wet Draw 1,Supervisor ,Resetting due to wire cut in pay off,No Thread
+25/11/2020 11:05:08,Wet Draw 1, ,Test 1,Test thread msg
+25/11/2020 11:39:48,Wet Draw 1, ,test1,thread test
+25/11/2020 11:49:17,Wet Draw 1, ,test3,test3
+25/11/2020 11:51:04,Wet Draw 1, ,test4,test4
+25/11/2020 11:51:31,Wet Draw 1, ,test5,No Thread
+25/11/2020 12:15:46,Wet Draw 1,New Aravinda,test2,No Thread
+26/11/2020 21:08:49,Wet Draw 1,Supervisor ,all machine wire cut due to power fluctuation,No Thread
+27/11/2020 13:05:57,Wet Draw 1,New Aravinda,Foam foming w/d 01 m/c stop,No Thread
+28/11/2020 14:29:40,Wet Draw 1,NewSivasakthi,Emulsion tank overflow-testing,Over flow
+28/11/2020 14:30:28,Wet Draw 1,NewSivasakthi,Testing,Over flow
+30/11/2020 12:16:46,Wet Draw 1,ManiRaghu ,murugan pls take anti foam trial immdediately,No Thread
+30/11/2020 15:56:43,Wet Draw 1, ,Test msg,test thread
+01/12/2020 12:49:27,Wet Draw 1, ,Test msg 1,Thread test msg
+01/12/2020 14:10:11,Wet Draw 1, ,Test msg 1,Thread test msg
+01/12/2020 14:49:36,Wet Draw 1, ,sound test for central chat,No Thread
+01/12/2020 15:09:00,Wet Draw 1,Supervisor ,Setting change life completed,No Thread
+01/12/2020 15:16:29,Wet Draw 1, ,Test msg shivam,Test thread  te
+01/12/2020 18:33:33,Wet Draw 1,Supervisor ,Skin pass ch,No Thread
+02/12/2020 16:07:31,Wet Draw 1,Supervisor ,Pfd wire cut now wire pulling,No Thread
+03/12/2020 10:38:16,Wet Draw 1, ,test msg1,No Thread
+03/12/2020 11:52:38,Wet Draw 1, ,test1,test1
+04/12/2020 14:58:22,Wet Draw 1,Supervisor ,setting ch,No Thread
+05/12/2020 16:22:40,Wet Draw 1,Supervisor ,Setting change 7.2mt running over size,No Thread
+07/12/2020 07:03:30,Wet Draw 1,Supervisor ,cast helix wire cut now checking,No Thread
+07/12/2020 09:41:53,Wet Draw 1,Supervisor ,setting ch life completd,No Thread
+10/12/2020 13:39:41,Wet Draw 1,Supervisor ,Skin pass change,No Thread
+12/12/2020 11:14:54,Wet Draw 1,NewTamilmaran,Wire cut at final die . analysis under progress,No Thread
+12/12/2020 18:53:05,Wet Draw 1,Supervisor ,All m/c  wire cut.due to power fluctuation,No Thread
+14/12/2020 20:22:13,Wet Draw 1,NewEzhilkumar,New manpower training in progress,No Thread
+15/12/2020 13:46:20,Wet Draw 1,Supervisor ,IOT has been reset by 1.15,No Thread
+17/12/2020 22:47:23,Wet Draw 1,NewEzhilkumar,2 fd changed both fd I'd 1.182 comes,No Thread
+17/12/2020 23:59:22,Wet Draw 1,Masker Ali -PPC,supervisor chellaperumalplease handover die to store also send mail .spec is 1.180 but initial die itself 1.182 (paramount die),No Thread
+18/12/2020 01:47:24,Wet Draw 1,Supervisor ,Setting all die scartch issue.2nd shift operator setting wire pulling die scartch ,No Thread
+19/12/2020 01:18:14,Wet Draw 1,Rajesh A,Bopt 2 fork not lifting,No Thread
+22/12/2020 17:44:44,Wet Draw 1,Supervisor ,Setting change,No Thread
+22/12/2020 17:53:25,Wet Draw 1,Supervisor ,4th axis timer belt problem ,No Thread
+25/12/2020 01:05:01,Wet Draw 1,Supervisor ,Wet draw 01 final die change. machine now running ,Downtime Alert
+25/12/2020 03:36:05,Wet Draw 1,Supervisor ,WD 01 New setting change emulsion tank  Now machine running ,Downtime Alert
+27/12/2020 09:29:17,Wet Draw 1,Supervisor ,WD 01 machine running now ,Downtime Alert
+27/12/2020 16:15:27,Wet Draw 1,vignesh,Rinse water flow problem,No Thread
+29/12/2020 13:09:17,Wet Draw 1,Supervisor ,WD 01 wire cut . setting Die broken in emulsion. ,Downtime Alert
+31/12/2020 06:59:12,Wet Draw 1,Supervisor ,Resin Water flow improper ,Downtime Alert
+31/12/2020 07:41:07,Wet Draw 1,Supervisor ,Corrected machine running ,Downtime Alert
+01/01/2021 07:50:29,Wet Draw 1,Supervisor ,New setting change ,No Thread
+01/01/2021 07:57:40,Wet Draw 1,Supervisor ,Machine running OK ,No Thread
+01/01/2021 09:55:37,Wet Draw 1,Mahasweta Chanda,WD Factory  opening OK,Testing  Mobile 
+04/01/2021 18:13:15,Wet Draw 1,Supervisor ,Wd 1  FD die change and bobbin change,No Thread
+06/01/2021 15:13:09,Wet Draw 1,Supervisor ,Wd1 FD die change life completed,No Thread
+06/01/2021 15:31:49,Wet Draw 1,Supervisor ,Skin pass Change  & Final Die Change Machine running now ,Downtime Alert
+06/01/2021 19:54:26,Wet Draw 1,Supervisor ,Wd1 FD die Wire cut,No Thread
+07/01/2021 19:41:30,Wet Draw 1,Supervisor ,Wd 1 pulling block wire cut,No Thread
+08/01/2021 07:53:03,Wet Draw 1,Supervisor ,Wire Cut ,Downtime Alert
+08/01/2021 08:07:16,Wet Draw 1,Supervisor ,Setting Change Emulsion Dies ,Downtime Alert
+08/01/2021 08:35:34,Wet Draw 1,Supervisor ,Setting Change by new operator trainee,Downtime Alert
+08/01/2021 19:21:52,Wet Draw 1,Supervisor ,Wd1 bearing pulley not running,No Thread
+11/01/2021 15:03:13,Wet Draw 1,Supervisor ,Rinse water flow struck .. ,No Thread
+11/01/2021 17:01:31,Wet Draw 1,Supervisor ,Die broken in Emulsion . New setting Change,Downtime Alert
+12/01/2021 15:28:10,Wet Draw 1, ,H1,No Thread
+13/01/2021 11:01:23,Wet Draw 1,Supervisor ,Wd 1 mc  rs setting change fd die change  bobbin change,No Thread
+18/01/2021 14:39:02,Wet Draw 1,Supervisor ,Setting change emulsion dies and skin pass change,Downtime Alert
+19/01/2021 12:42:33,Wet Draw 1,Bakkiyaraj.K,During reason submit like bobbin change it not respon please check continues popup coming when Submit reason,Wd1
+19/01/2021 23:06:28,Wet Draw 1,Supervisor ,Wd 1  new setting change 1.2mm,No Thread
+22/01/2021 01:41:26,Wet Draw 1,Supervisor ,WD 1 setting die  broken re setting change,No Thread
+22/01/2021 07:40:41,Wet Draw 1,Supervisor ,Wirecut machine ready now running ,No Thread
+23/01/2021 08:37:48,Wet Draw 1,Supervisor ,Setting Change emulsion dies ,Downtime Alert
+23/01/2021 23:09:04,Wet Draw 1,Supervisor ,Wd-1 setting die broken so re setting change,No Thread
+24/01/2021 11:22:04,Wet Draw 1,Mahasweta Chanda,When Kaypee Die is Changed -please select the correct supplier and Mention in Chat ,Kaypee Die Trials
+24/01/2021 15:09:47,Wet Draw 1,New Rahul,1.48 die broken setting life 2.0mt only running due to groove problem,No Thread
+24/01/2021 16:57:45,Wet Draw 1,Supervisor ,Two times setting Changed . 1.63mm Die broken in emulsion due to 4axis pulley groove projection.  Maintenance working. ,Downtime Alert
+27/01/2021 22:57:22,Wet Draw 1,Supervisor ,Wire cut now.Setting Change by new operator in Previous shift & wire pulled without die change  ,Downtime Alert
+28/01/2021 23:11:20,Wet Draw 1,Supervisor ,Final die change ,Downtime Alert
+29/01/2021 06:48:49,Wet Draw 1,Supervisor ,1.26 die broken ,Downtime Alert
+29/01/2021 07:03:16,Wet Draw 1,Supervisor ,1.26 die broken Resetting done by new operator trainee,Downtime Alert
+30/01/2021 11:44:47,Wet Draw-Wet Draw 2,IoT_Admin ,test3,No Thread
+30/01/2021 13:01:18,Wet Draw-Wet Draw 1,,test3,No Thread
+01/02/2021 07:18:37,Wet Draw 1,Supervisor , Wd 1 m/c  pull block wire cut,No Thread
+01/02/2021 19:32:53,Wet Draw 1,Bakkiyaraj.K,Kay pee die trial trace no A9620/01/01,No Thread
+01/02/2021 21:28:02,Wet Draw 1,Bakkiyaraj.K,Kay pee die trial trace no A9528/02/01.  Wet draw-1,No Thread
+03/02/2021 21:18:18,Wet Draw 1,Bakkiyaraj.K,Kay pee die trail trace no:A9506/01/03 wet draw-1,No Thread
+05/02/2021 09:58:46,Wet Draw 1,New Rajan,Reel is not available,No Thread
+06/02/2021 19:13:03,Wet Draw 1,Supervisor ,Powercut now machine running ,No Thread
+07/02/2021 08:04:27,Wet Draw 1,Dinesh M,A9720/02 meterial problem final die wire cut so DD reel change,Meterial problem
+07/02/2021 08:44:37,Wet Draw 1,Supervisor ,Emissions pump damage so mc break down,No Thread
+10/02/2021 11:16:18,Wet Draw 1,Mech_maint ,Axil shaft emulsion leaks & timer belt problem now working.,Downtime Alert
+11/02/2021 07:30:45,Wet Draw 1,Supervisor ,Copper tank flow not working / Jog pedal not rotating through manual pedal . Maintenance work completed.  No wire pulling ,Downtime Alert
+11/02/2021 10:45:44,Wet Draw 1,Supervisor ,New setting done. Parallely operator worked for final die change in WD 03,Downtime Alert
+12/02/2021 04:35:04,Wet Draw 1,Karthik ,.wetdraw 2 break down information received at 12.30am . in IOT break down open from 11.59 pm to 2.27 am ,No Thread
+12/02/2021 08:53:16,Wet Draw 1,Supervisor ,Die rotating alarm  machine under maintenance ,Breakdown Alert
+12/02/2021 08:53:45,Wet Draw 1,Mech_maint ,Die block gear block unit problem now attending,Breakdown Alert
+12/02/2021 22:25:47,Wet Draw 1,Supervisor ,Wd 1 wir cut problem so re setting change,No Thread
+13/02/2021 04:14:42,Wet Draw 1,Supervisor , DD 1  material problem TATA coil  M 81358/321/A9794              Reel nos 01    wd m/c 1,No Thread
+17/02/2021 08:52:34,Wet Draw 1,Jayaprakash Achuthan,New setting change and same break fast,Wd-1
+18/02/2021 22:44:49,Wet Draw 1,Supervisor ,Repeated die Oversize in Jog pulling . Machine under analysis plan Changed to run WD 09 ,Downtime Alert
+18/02/2021 23:21:05,Wet Draw 1,Supervisor ,NIL plan provided. IOT team please check,Downtime Alert
+19/02/2021 04:29:30,Wet Draw 1,Supervisor ,Gear box not rotating ,Breakdown Alert
+19/02/2021 08:52:26,Wet Draw 1,New Rohan,Kaylee die 15kg,NPD Trial
+19/02/2021 09:20:14,Wet Draw 1,New Rohan,Garliardie and Paramount die 15Kg each completed,NPD Trial
+20/02/2021 14:49:55,Wet Draw 1,New Rajan,Bopt not available,No Thread
+20/02/2021 17:20:46,Wet Draw 1,New Rajan,Wire cut due to cone groove now cone change by maintanence,No Thread
+23/02/2021 14:34:28,Wet Draw 1,Supervisor ,NIL Plan machine under maintenance for emulsion leak and gear box correction. ,Downtime Alert
+24/02/2021 11:41:03,Wet Draw-Wet Draw 1,,Test message,Testing
+25/02/2021 07:16:29,Wet Draw 1,New Rajan,Material problemTata coil,No Thread
+25/02/2021 07:58:03,Wet Draw 1,New Rajan,Again Tata coil material problem,No Thread
+25/02/2021 11:16:24,Wet Draw 1,New Rajan,Wire over lock-in emulsion tank,No Thread
+25/02/2021 11:19:02,Wet Draw 1,New Rajan,Wire overlap in emlsion cone and wire cut,No Thread
+25/02/2021 15:33:51,Wet Draw 1,Supervisor ,4 axis pulley change planned activity by maintenance  ,Downtime Alert
+03/03/2021 09:40:28,Wet Draw 1,Supervisor ,Steel wool box broken and reel change ,Downtime Alert
+08/03/2021 14:58:46,Wet Draw 1,Supervisor ,Pull block wire cut re setting change,No Thread
+08/03/2021 19:32:39,Wet Draw 1,New Rajan,Empty bobbin is not available,No Thread
+09/03/2021 10:14:46,Wet Draw 1,New Sumandeep,WD1 winder unit making noise...something rubbing. Machine is running . Maint.plz check,No Thread
+15/03/2021 13:35:39,Wet Draw 1,New Rajan,New setting and skin pass change,No Thread
+18/03/2021 11:41:54,Wet Draw 1,New Rajan,Test msg from Dev.,No Thread
+18/03/2021 11:46:39,Wet Draw 1,New Rajan,test 2 msg,No Thread
+18/03/2021 11:47:14,Wet Draw 1,New Rajan,test 2 msg,No Thread
+18/03/2021 11:47:32,Wet Draw 1,New Rajan,test for pwd,No Thread
+18/03/2021 11:48:34,Wet Draw 1,New Rajan,test 3 msg,No Thread
+18/03/2021 13:01:56,Wet Draw 1,New Rajan,Wire lair problem. Wire to wire laring,No Thread
+22/03/2021 06:39:26,Wet Draw 1,Supervisor ,Emulsion leak . Machine under maintenance,Downtime Alert
+22/03/2021 13:12:07,Wet Draw-Wet Draw 1,shivam,test msg,No Thread
+23/03/2021 16:09:03,Wet Draw-Wet Draw 1,,Test Message,Testing
+26/03/2021 03:13:24,Wet Draw 1,Supervisor ,Wire cut in setting,Downtime Alert
+26/03/2021 11:35:37,Wet Draw-Wet Draw 1,Shivam Verma,test msg from central system chat to check msg update on chat :shivam,testing
+28/03/2021 11:57:45,Wet Draw-Wet Draw 1,Mahasweta Chanda,Test Msg,Testing
+30/03/2021 19:49:00,Wet Draw 1,Supervisor ,Die broken in setting stage,Downtime Alert
+31/03/2021 14:31:56,Wet Draw 1,New Rohan,Low lco reel running,Wd-1
+31/03/2021 22:30:34,Wet Draw 1,Supervisor ,Copper flow level low. Machine under maintenance,Downtime Alert
+03/04/2021 22:39:33,Wet Draw 1,Supervisor ,Setting change 1.2mm life completed . ,Downtime Alert
+03/04/2021 23:18:36,Wet Draw 1,Supervisor ,Wire cut life completed setting changed 1.2mm,Downtime Alert
+05/04/2021 05:57:13,Wet Draw 1,Supervisor ,Wire cut due to material problem end bobbin . Reel replaced ,Downtime Alert
+07/04/2021 11:37:17,Wet Draw 1, ,Test message,Testing
+07/04/2021 18:50:33,Wet Draw 1,Supervisor ,Wire cut die to groove found infour axis pulley ,Downtime Alert
+18/06/2021 04:54:53,Spooler Line-W1,FTP ,test msg,No Thread
+05/11/2021 09:06:48,W1,21 / SR,Wire 3 points out of round (triangular) for PLW PRODUCTION !!!!!!,No Thread

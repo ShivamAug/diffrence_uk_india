@@ -1,0 +1,29 @@
+Area,Reason,Major_id,Major_reason,Minor_id,Minor_reason,Sub_minor_id,Sub_minor_Reason,Sub_Sub_minor_reason
+N/A,N/A,N/A,"Wire Break",N/A,"Weld Joint",N/A,N/A,N/A
+N/A,N/A,N/A,"General Producti",N/A,"Change cast roll",N/A,N/A,N/A
+N/A,N/A,N/A,"No material/oper",N/A,"Leave or Meal",N/A,N/A,N/A
+N/A,N/A,N/A,"No material/oper",N/A,"workin elsewhere",N/A,N/A,N/A
+N/A,N/A,N/A,"No material/oper",N/A,"No Finish WIP",N/A,N/A,N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Change Pulley",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Spooler Traverse",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Dance Roller cha",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Drive belt fail",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Cylinder failure",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"EHS maintenance ",N/A
+N/A,N/A,N/A,Maintenance,N/A,Mechanical,N/A,"Steiner Roll cg",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Change Motor/Fan",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Inverter drive",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Electrical fault",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Air Regulator",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,Switch,N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Parameter adjust",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Temp Cont fail",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,Sensor,N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,"Display screen",N/A
+N/A,N/A,N/A,Maintenance,N/A,Electrical,N/A,Encoder,N/A
+N/A,N/A,N/A,Maintenance,N/A,"Prevent Maint",N/A,"Planned Maint",N/A
+N/A,N/A,N/A,"Facility issue",N/A,"No Electricity",N/A,N/A,N/A
+N/A,N/A,N/A,"Facility issue",N/A,"Compressors down",N/A,N/A,N/A
+N/A,N/A,N/A,"Not Scheduled",N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,"Facility issue",N/A,Triad,N/A,N/A,N/A
+N/A,N/A,N/A,"No material/oper",N/A,"Not scheduled",N/A,N/A,N/A
